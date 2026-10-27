@@ -1,0 +1,18 @@
+{
+  "project": "FALCONX",
+  "data_type": "illustrative_demo_data",
+  "zones": [
+    {
+      "zone_id": "A",
+      "event": "wildlife_movement",
+      "priority": "informational",
+      "verified": false
+    },
+    {
+      "zone_id": "B",
+      "event": "potential_fire",
+      "priority": "high",
+      "verified": false
+    }
+  ]
+}
