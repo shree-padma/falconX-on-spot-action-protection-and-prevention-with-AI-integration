@@ -1,0 +1,2 @@
+# falconX-on-spot-action-protection-and-prevention-with-AI-integration
+FALCONX is an AI-powered forest protection system using autonomous drones to detect forest fires, illegal activities, and wildlife threats. Equipped with thermal imaging, GPS, and wireless communication, it aims to provide early alerts, improve forest monitoring, support faster responses, and protect biodiversity and natural ecosystems.
